@@ -23,3 +23,30 @@ https://pt.wikipedia.org/wiki/Dados
 https://escoladedados.org/tutoriais/o-que-sao-dados/
 https://pt.wikipedia.org/wiki/Banco_de_dados
 https://4infra.com.br/o-que-e-sistema-de-arquivos/
+
+6. Informação 
+Informação é um conceito amplo que se refere a qualquer dado, fato ou conhecimento que pode ser transmitido, processado ou armazenado. Ela é o conteúdo que dá sentido a um conjunto de dados e pode ser utilizada para tomar decisões, resolver problemas ou criar novos conhecimentos. 
+Em termos gerais, a informação pode ser vista como a comunicação de algo que reduz a incerteza ou acrescenta conhecimento a quem a recebe. Ela pode estar em várias formas, como palavras, números, imagens, sons ou sinais, e é essencial para a comunicação e o aprendizado.
+
+7. Neutralidade de Rede 
+Neutralidade da rede é o princípio de que todos os dados na internet devem ser tratados de maneira igual, sem discriminação ou privilégios para certos tipos de conteúdo, aplicativos, serviços ou usuários. Isso significa que os provedores de serviços de internet (ISPs) não podem bloquear, desacelerar ou priorizar o tráfego de determinados sites ou serviços em detrimento de outros.
+Por exemplo, sob a neutralidade da rede, um ISP não poderia reduzir a velocidade de acesso a um serviço de streaming de vídeo concorrente ou cobrar taxas adicionais para que certos sites ou serviços sejam acessados com maior velocidade. O objetivo é manter a internet aberta e acessível a todos, sem permitir que empresas de telecomunicações influenciem o que os usuários podem acessar ou a que velocidade podem fazê-lo.
+
+8. Rede Neural Artificial 
+Uma rede neural artificial (RNA) é um modelo computacional inspirado no funcionamento das redes de neurônios biológicos do cérebro humano. Ela é composta por uma série de "neurônios" interconectados (também chamados de nós) organizados em camadas. Essas redes são usadas em sistemas de aprendizado de máquina e inteligência artificial para resolver problemas complexos, como reconhecimento de padrões, previsão e classificação de dados.
+
+9. Zero-rating 
+Zero-rating é uma prática usada por provedores de serviços de internet (ISPs) em que o consumo de dados de determinados aplicativos, sites ou serviços não é descontado do limite de dados mensal do usuário. Por exemplo, uma operadora de telefonia móvel pode permitir que os usuários assistam a vídeos em uma determinada plataforma sem que o uso desses dados seja contado no plano de internet contratado. 
+
+10. Sistema Operacional 
+Um sistema operacional (SO) é um software fundamental que gerencia o hardware e os recursos de um computador, além de fornecer uma interface entre o usuário e o hardware. Ele controla e coordena o uso do processador, da memória, dos dispositivos de armazenamento e de entrada/saída, permitindo que diferentes programas sejam executados e interajam com o hardware de maneira eficiente.
+Além disso, o sistema operacional oferece uma interface para que os usuários interajam com o computador, seja por meio de uma interface gráfica (GUI), como no Windows, macOS ou Linux, ou por meio de uma interface de linha de comando, como no caso de alguns sistemas Unix.
+O sistema operacional também gerencia a execução de aplicativos, garantindo que cada um tenha os recursos necessários para funcionar corretamente e oferecendo mecanismos de segurança e estabilidade para o sistema como um todo.
+
+Fontes Bibliograficas:
+https://sonhos.soescola.com/glossario/o-que-e-informacao-definicao-e-importancia/
+https://conceito.de/informacao
+https://pt.wikipedia.org/wiki/Neutralidade_da_rede
+https://pt.wikipedia.org/wiki/Rede_neural_artificial
+https://pt.wikipedia.org/wiki/Zero-rating
+https://tecnoblog.net/responde/o-que-e-um-sistema-operacional/
