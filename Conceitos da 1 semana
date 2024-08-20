@@ -1,0 +1,25 @@
+1. Algoritmo
+Um algoritmo é uma sequência de passos ou instruções definidos para resolver um problema ou realizar uma tarefa específica. Ele pode ser entendido como uma "receita" que, quando seguida, leva a um resultado desejado. 
+Um algoritmo deve ser claro é preciso, não contendo ambiguidade, finito, terminando após um número definido de passos e executável, cada instrução deve ser executável com os recursos disponíveis.
+
+2. Inteligência Artificial 
+Inteligência Artificial (IA) é um campo da ciência da computação que se dedica ao desenvolvimento de sistemas e máquinas capazes de realizar tarefas que, normalmente, exigem inteligência humana. Essas tarefas incluem aprendizado, raciocínio, tomada de decisões, reconhecimento de padrões, compreensão de linguagem natural, visão computacional, entre outras.
+
+3. Dados 
+Dados são informações coletadas, observadas ou geradas que podem ser analisadas ou usadas para tomar decisões. Eles podem ser qualquer tipo de informação que possa ser registrada e usada para identificar padrões, tendências, comportamentos ou para fazer previsões. 
+
+4. Banco de Dados 
+Um banco de dados é uma coleção organizada de dados que é armazenada e gerenciada de forma que possa ser facilmente acessada, manipulada e atualizada. Os bancos de dados são projetados para armazenar grandes volumes de dados de maneira eficiente, garantindo que as informações possam ser recuperadas e modificadas rapidamente por usuários ou aplicativos.
+
+5. Sistema de Arquivos 
+Um sistema de arquivos é a estrutura e o método que um sistema operacional usa para organizar, armazenar, recuperar e gerenciar dados em dispositivos de armazenamento, como discos rígidos, SSDs, pendrives, e CDs/DVDs. Ele define como os dados são armazenados em um disco e como o sistema operacional pode acessar esses dados.
+O sistema de arquivos organiza os dados em unidades chamadas "arquivos", que podem conter qualquer tipo de informação, como documentos, imagens, vídeos, ou programas. Além disso, ele também organiza os arquivos em diretórios ou pastas, criando uma hierarquia que facilita o acesso e a navegação pelos dados armazenados.
+
+Fontes Bibliograficas:
+https://www.snexplores.org/article/explainer-what-is-an-algorithm
+https://www.datacamp.com/blog/what-is-an-algorithm
+https://www.todamateria.com.br/inteligencia-artificial/
+https://pt.wikipedia.org/wiki/Dados
+https://escoladedados.org/tutoriais/o-que-sao-dados/
+https://pt.wikipedia.org/wiki/Banco_de_dados
+https://4infra.com.br/o-que-e-sistema-de-arquivos/
