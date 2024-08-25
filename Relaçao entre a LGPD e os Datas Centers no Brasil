@@ -2,3 +2,9 @@ A Lei Geral de Proteçao de Dados (LGPD), tem um impacto siginificativo nos data
 Os data centers devem seguir rigorosos padroes de segurança, tanto fisicos como virtuais, isso inclui a implementaçao de redundancias para prevenir falhas fisicas e a adoçao de tecnologias como criptografia, firewalls, e softwares para proteger os dados contra acessos nao autorizados e ciberataques. Alem disso eles precisam seguir o conceito de Privacy by Design, que incorpora a privacidade e a proteçao de dados em todas as fases de desenvolvimento de sistemas e infraestruturas.
 Outros requisitos fundamentais incluem o mapeamento dos dados tratados, a atualização de softwares, monitoramento contínuo e políticas de controle de acesso, tanto físico quanto online.
 De acordo com o artigo 52, II, da LGPD, Em caso de descumprimento das normas da LGPD, as sanções podem ser severas, incluindo advertências, multas de até 2% do faturamento anual da empresa (com limite de R$ 50 milhões), e artigo 52, XII, possibilitando proibição parcial ou total do exercício de atividades relacionadas a tratamento de dados.
+
+Fontes Bibliograficas: 
+https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm
+https://www.lgpdbrasil.com.br/veja-quais-sao-os-impactos-da-lgpd-para-os-data-centers/
+https://exame.com/bussola/saiba-quais-sao-os-impactos-da-lgpd-para-os-data-centers/
+https://odatacolocation.com/blog/lgpd-para-datacenters/
