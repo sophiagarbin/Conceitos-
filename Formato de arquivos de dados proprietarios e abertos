@@ -1,1 +1,10 @@
+Os formatos de arquivos de proprietarios se dividem em duas categorias, proprietarios e abertos, cada um com características específicas que influenciam o uso e a acessibilidade dos dados.
+Um formato aberto, em informática, indica uma especificação técnica de domínio público usada para a descrição e armazenamento de dados digitais, livre de restrições legais para seu uso. Seu principal objetivo é garantir o acesso aos dados a longo prazo sem inseguranças jurídicas ou restrições devidas às especificações técnicas: em outras palavras, garantir a interoperabilidade.
+Exemplos de formatos abertos:
+- PNG (um formato de imagem)
+- MP3 (formato de áudio)
+- Webm (Formato de video opensource super-compacto de alta qualidade oficialmente em desenvolvimento pela Google)
+Ja o formato proprietario são, na verdade, controlados e definidos por interesses privados.
+
+Com o formato proprietário, o usuário corre o risco de perder todas as informações contidas no arquivo caso o software pare de funcionar ou fosse descontinuado, já que não teria outro sistema capaz de processá-las. Todas as informações coletadas nos arquivos públicos (órgãos, instituições, administração, etc.) se tornariam ilegíveis e inutilizáveis em muito pouco tempo.
 
