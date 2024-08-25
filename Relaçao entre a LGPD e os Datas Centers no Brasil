@@ -1,1 +1,2 @@
-
+A Lei Geral de Proteçao de Dados (LGPD), tem um impacto siginificativo nos data centers no Brasil, uma vez que faz-se necessario a adaptaçao dos aplicativos e serviços dessas estruturas, para garantir a proteçao de dados pessoais armazenados e processados dos usuarios.
+Os data centers devem seguir rigorosos padroes de segurança, tanto fisicos como virtuais, isso inclui a implementaçao de redundancias para prevenir falhas fisicas e a adoçao de tecnologias como criptografia, firewalls, e softwares para proteger os dados contra acessos nao autorizados e ciberataques. Alem disso eles precisam seguir o conceito de Privacy by Design, que incorpora a privacidade e a proteçao de dados em todas as fases de desenvolvimento de sistemas e infraestruturas.
