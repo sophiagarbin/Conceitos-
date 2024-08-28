@@ -1,0 +1,15 @@
+LINGUAGENS DE PROGRAMAÇAO E SUAS DIFERENÇAS:
+
+1- Python
+É uma linguagem de alto nível, interpretada e multiparadigma, amplamente utilizada em áreas como ciência de dados, inteligência artificial, e desenvolvimento web. Python é conhecida por sua simplicidade e facilidade de aprendizado, o que a torna ideal para iniciantes. No entanto, ela não é a mais eficiente em termos de velocidade, sendo menos indicada para aplicações que exigem alto desempenho.
+
+2- JavaScript
+É a linguagem padrão para o desenvolvimento web, usada tanto no front-end (navegador) quanto no back-end (servidor) através de plataformas como Node.js. JavaScript é uma linguagem dinâmica e orientada a objetos baseada em protótipos. Sua flexibilidade e ampla utilização em desenvolvimento web são grandes vantagens, embora seu comportamento dinâmico possa gerar erros difíceis de depurar.
+
+3- C++
+É uma linguagem de propósito geral que suporta programação orientada a objetos e de baixo nível, permitindo maior controle sobre os recursos de hardware. Isso a torna ideal para sistemas onde o desempenho é crítico, como jogos e aplicações embarcadas. Contudo, sua complexidade pode dificultar a depuração e a manutenção de grandes projetos.
+
+Fontes Bibliograficas:
+https://www.marciocunha.eti.br/quais-sao-as-linguagens-de-programacao-mais-usadas-em-2023/
+https://herocode.com.br/blog/linguagens-de-programacao/
+https://blog.ingrammicro.com.br/tecnologia-solucao-e-informacao/linguagens-de-programacao-2023/
